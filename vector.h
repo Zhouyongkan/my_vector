@@ -1,7 +1,7 @@
 #pragma once
 #include <assert.h>
 
-namespace bit
+namespace my_vector
 {
 	template<class T>
 	class vector
